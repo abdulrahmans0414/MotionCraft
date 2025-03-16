@@ -22,7 +22,7 @@ function ScrollAnimations() {
                     width: "100%",
                     height: "12px",
                     position: "fixed",
-                    top: 0,
+                    top: 48,
                     left: 0,
                     scaleX: scrollYProgress, // Bind scaleX to scrollYProgress
                 }}
