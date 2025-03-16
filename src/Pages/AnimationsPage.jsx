@@ -16,7 +16,7 @@ function AnimationsPage() {
                 <BasicAnimations />
             </section>
 
-            <section className="mb-10">
+            <section className="mb-100">
                 <h2 className="text-white text-3xl font-semibold mb-5">Keyframe Animations</h2>
                 <KeyframeAnimations />
             </section>
